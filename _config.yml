@@ -1,0 +1,21 @@
+# 1. बेसिक जानकारी
+title: "sukha vacancy"
+author: "सुखदेव"
+description: "we provide national and state vacancy updates"
+
+# 2. URL सेटिंग (टेस्टिंग के लिए)
+url: "https://sukhavacancy.github.io" # यहाँ अपना GitHub यूजरनेम डालें
+baseurl: ""
+
+# 3. थीम की सेटिंग (Minima)
+remote_theme: jekyll/minima
+
+# 4. भविष्य की नई पोस्ट्स के लिए Global Permalink
+permalink: /:year/:month/:title.html
+
+# 5. SEO और प्लगइन्स
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
