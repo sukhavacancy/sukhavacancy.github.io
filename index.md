@@ -1,5 +1,5 @@
 ---
 layout: home
-title: "sukha vacancy"
+title: "home"
 ---
 
