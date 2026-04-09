@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rajasthan Geography 2026: Area, Shape, and Boundaries (Full Guide)'
-date: 2026-04-09 11:18:00 +530
+date: 2026-04-09 11:20:00 +0530
 categories: Rajasthan geography
 ---
 
