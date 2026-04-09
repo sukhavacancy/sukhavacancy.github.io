@@ -2,6 +2,7 @@ backend:
   name: github
   repo: sukhavacancy/sukhavacancy.github.io
   branch: main
+  base_url: https://sveltia-cms-auth.pages.dev
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
