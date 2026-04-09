@@ -2,6 +2,7 @@ backend:
   name: github
   repo: sukhavacancy/sukhavacancy.github.io
   branch: main
+  auth_type: token  # यह लाइन गिटहब को बताएगी कि हम टोकन इस्तेमाल कर रहे हैं
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
