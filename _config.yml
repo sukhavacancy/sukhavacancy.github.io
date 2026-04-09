@@ -4,7 +4,7 @@ author: "सुखदेव"
 description: "we provide national and state vacancy updates"
 
 # 2. URL सेटिंग (टेस्टिंग के लिए)
-url: "https://sukhavacancy.github.io" # यहाँ अपना GitHub यूजरनेम डालें
+url: "https://www.sukhavacancy.in" # यहाँ अपना GitHub यूजरनेम डालें
 baseurl: ""
 
 # 3. थीम की सेटिंग (Minima)
@@ -18,4 +18,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  -jekyll-feed
   
