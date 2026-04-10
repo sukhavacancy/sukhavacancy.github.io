@@ -13,7 +13,7 @@ remote_theme: jekyll/minima
 # 4. भविष्य की नई पोस्ट्स के लिए Global Permalink
 permalink: /:year/:month/:title.html
 
-
+paginate: 10
 # 5. SEO और प्लगइन्स
 plugins:
   - jekyll-remote-theme
