@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Rajasthan Geography Notes 2026: District Borders & Boundaries'
-date: 2026-04-10T08:14:00
-categories: Rajasthan geography, Rajasthan gk english, rajasthan gk, study notes
+date: 2026-04-10T08:14:00]
+tags: [Rajasthan geography-Rajasthan gk english-rajasthan-gk study notes]
+author: "sukhadev"
 ---
 
 <h2>Welcome to Your Rajasthan Geography Notes!</h2>
