@@ -1,8 +1,9 @@
 ---
 layout: post
 title: '​7 Divisions & 41 Districts: Rajasthan Geography Updated Notes 2026'
-date: 2026-04-19T07:33:00
+date: 2026-04-19 07:33:00 0+530
 categories: Rajasthan geography
+author: sukhadev
 ---
 
 <p>Hello juniors! If you are preparing for your upcoming geography exams, the history of Rajasthan's divisional system (संभागीय व्यवस्था) can feel a bit overwhelming with all the dates and committees. I have organized all the core facts, dates, and recent updates from our latest lecture so you can memorize them easily. Let's break it down!</p>
