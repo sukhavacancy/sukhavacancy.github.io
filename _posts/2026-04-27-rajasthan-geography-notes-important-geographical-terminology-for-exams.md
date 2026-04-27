@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Rajasthan Geography Notes: Important Geographical Terminology for Exams'
-date: 2026-04-27T17:08:00
+date: 2026-04-27 17:08:00 +0530
 categories: Rajasthan Geography
+author: sukhadev
 ---
 
 <h2>Your Go-To Notes for Rajasthan Geography</h2>
